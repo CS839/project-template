@@ -2,7 +2,7 @@
 
 ## Problem and technique description
 
-#### What is the problem?
+#### What is the problem you're trying to solve?
 
 #### What have people done about it and what are the limitations of existing techniques?
 
